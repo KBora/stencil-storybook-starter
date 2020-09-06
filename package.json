@@ -1,7 +1,7 @@
 {
-  "name": "everydayrewards-ds",
+  "name": "stencil-storybook-ds",
   "version": "0.0.1",
-  "description": "Rewards DS Stencil",
+  "description": "Stencil Storybook Starter",
   "main": "dist/index.cjs.js",
   "module": "dist/custom-elements/index.js",
   "es2015": "dist/esm/index.mjs",
@@ -9,7 +9,7 @@
   "types": "dist/custom-elements/index.d.ts",
   "collection": "dist/collection/collection-manifest.json",
   "collection:main": "dist/collection/index.js",
-  "unpkg": "dist/everydayrewards-ds/everydayrewards-ds.js",
+  "unpkg": "dist/stencil-storybook-ds/stencil-storybook-ds.js",
   "files": [
     "dist/",
     "loader/"

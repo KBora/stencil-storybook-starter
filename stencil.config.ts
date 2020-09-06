@@ -1,7 +1,7 @@
 import { Config } from '@stencil/core';
 
 export const config: Config = {
-  namespace: 'everydayrewards-ds',
+  namespace: 'stencil-storybook-ds',
   outputTargets: [
     {
       type: 'dist',
